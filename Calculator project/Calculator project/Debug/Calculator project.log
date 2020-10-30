@@ -1,0 +1,6 @@
+﻿  Calculator project.cpp
+C:\Users\User\Desktop\C++ projects\Calculator project\Calculator project\Calculator project.cpp(116,35): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\User\Desktop\C++ projects\Calculator project\Calculator project\Calculator project.cpp(130,36): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\User\Desktop\C++ projects\Calculator project\Calculator project\Calculator project.cpp(172,39): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\User\Desktop\C++ projects\Calculator project\Calculator project\Calculator project.cpp(190,50): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Calculator project.vcxproj -> C:\Users\User\Desktop\C++ projects\Calculator project\Debug\Calculator project.exe
